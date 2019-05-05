@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="product_guide_url_product_instructions">tanos/app/cn/html/guide/rockrobo_guide1.html</string>
+    <string name="product_guide_url_quick_start">tanos/app/cn/html/guide/rockrobo_guide2.html</string>
+    <string name="product_guide_url_quick_start_tw">tanos/app/cn/html/guide/rockrobo_guide2_tw.html</string>
+    <string name="product_guide_url_mopping_module">tanos/app/cn/html/guide/rockrobo_guide2_2.html</string>
+    <string name="product_guide_url_function">tanos/app/cn/html/guide/rockrobo_guide3.html</string>
+    <string name="product_guide_url_dustbin_filter">tanos/app/cn/html/guide/rockrobo_guide4.html</string>
+    <string name="product_guide_url_virtual_wall">tanos/app/cn/html/guide/rockrobo_guide5.html</string>
+    <string name="product_guide_url_virtual_wall_tw">tanos/app/cn/html/guide/rockrobo_guide5_tw.html</string>
+    <string name="product_guide_url_maintenance">tanos/app/cn/html/guide/rockrobo_guide6.html</string>
+    <string name="product_guide_url_trouble_shooting">tanos/app/cn/html/guide/rockrobo_guide7.html</string>
+    <string name="product_guide_url_trouble_shooting_tw">tanos/app/cn/html/guide/rockrobo_guide7_tw.html</string>
+
+    <string name="product_guide_video_all_url">tanos/app/cn/video/combine.mp4</string>
+    <string name="product_guide_video_quickstart_url">tanos/app/cn/video/1_quickstart.mp4</string>
+    <string name="product_guide_video_function_url">tanos/app/cn/video/2_clean.mp4</string>
+    <string name="product_guide_video_mopping_module">tanos/app/cn/video/2_2.mp4</string>
+    <string name="product_guide_video_dustbin_url">tanos/app/cn/video/3_dustbin.mp4</string>
+    <string name="product_guide_video_virtual_wall_url">tanos/app/cn/video/4_compass.mp4</string>
+    <string name="product_guide_video_maintain_url">tanos/app/cn/video/5_maintain.mp4</string>
+    <string name="product_guide_video_schedule_url">tanos/app/cn/video/6_schduele.mp4</string>
+
+    <string name="consumable_buy_url">http://home.mi.com/shop/search?keyword=扫地</string>
+    <string name="main_brush_buy_url">http://home.mi.com/shop/detail?gid=105691</string>
+    <string name="filter_buy_url">http://home.mi.com/shop/detail?gid=101984</string>
+    <string name="side_brush_buy_url">http://home.mi.com/shop/detail?gid=101980</string>
+    <string name="filter_element_buy_url">http://home.mi.com/shop/detail?gid=101986</string>
+
+    <string name="virtual_wall_buy_url">http://home.mi.com/shop/detail?gid=442</string>
+    <string name="event51_rule">https://awsbj0.fds.api.xiaomi.com/app/common/20180501/policy.html</string>
+
+    <string name="map_save_guide_url">tanos/app/cn/html/mapsave/rockrobo_map_save_guide.html</string>
+</resources>

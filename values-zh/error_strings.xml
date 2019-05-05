@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_left_compass_recover_msg">电子罗盘异常</string>
+    <string name="error_right_compass_recover_msg">右电子罗盘异常</string>
+    <string name="error_mb_rush_sc_msg">主刷短路</string>
+    <string name="error_mb_brush_oc_msg">主刷开路</string>
+    <string name="error_left_wheel_sc_msg">左轮短路</string>
+    <string name="error_left_wheel_oc_msg">左轮开路</string>
+    <string name="error_right_wheel_sc_msg">右轮短路</string>
+    <string name="error_right_wheel_oc_msg">右轮开路</string>
+    <string name="error_fan_oc_msg">风机开路</string>
+    <string name="error_mouse_init_msg">运动追踪传感器初始化错误</string>
+    <string name="error_gyro_init_msg">陀螺仪初始化错误</string>
+    <string name="error_charger_ic_msg">充电IC异常</string>
+    <string name="error_mv_ram_msg">NVRAM异常</string>
+    <string name="error_low_wifi_msg">wifi模组异常1</string>
+    <string name="error_high_wifi_msg">wifi模组异常2</string>
+    <string name="error_odo_lost_msg">里程计内部错误</string>
+    <string name="error_left_wheel_odo_lost_msg">左轮里程计无数据</string>
+    <string name="error_right_wheel_odo_lost_msg">右轮里程计无数据</string>
+    <string name="error_audio_codec_msg">Audio初始化错误</string>
+    <string name="error_range_i2c_msg">沿墙传感器初始化错误</string>
+    <string name="error_range_boot_timeout_msg">沿墙传感器异常</string>
+    <string name="error_range_id_msg">沿墙传感器异常</string>
+</resources>

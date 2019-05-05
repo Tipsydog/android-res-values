@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="map_path">#FFFFFF</color>
+    <color name="map_obstacle">#646464</color>
+    <color name="map_space_gray">#CFCFCF</color>
+    <color name="map_space_blue">#71CBDE</color>
+    <color name="waiting_halo">#7f3384ff</color>
+    <color name="warning_halo">#7fff6666</color>
+    <color name="goto_predict_path">#FF9700</color>
+    <color name="robot_zone_stroke">#646464</color>
+    <color name="robot_zone_fill">@color/white</color>
+</resources>

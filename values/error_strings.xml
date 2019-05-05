@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_left_compass_recover_msg">Compass Recover</string>
+    <string name="error_right_compass_recover_msg">Right Compass Recover</string>
+    <string name="error_mb_rush_sc_msg">Main Brush Short Circuit</string>
+    <string name="error_mb_brush_oc_msg">Main Brush Open Circuit</string>
+    <string name="error_left_wheel_sc_msg">Left Wheel Short Circuit</string>
+    <string name="error_left_wheel_oc_msg">Left Wheel Open Circuit</string>
+    <string name="error_right_wheel_sc_msg">Right Wheel Short Circuit</string>
+    <string name="error_right_wheel_oc_msg">Right Wheel Open Circuit</string>
+    <string name="error_fan_oc_msg">Fan Open Circuit</string>
+    <string name="error_mouse_init_msg">Motion tracking sensor init error</string>
+    <string name="error_gyro_init_msg">Gyro ImuSpiErr init error</string>
+    <string name="error_charger_ic_msg">Charger IC error</string>
+    <string name="error_mv_ram_msg">NVRAM error</string>
+    <string name="error_low_wifi_msg">wifi mode error 1</string>
+    <string name="error_high_wifi_msg">wifi mode error 2</string>
+    <string name="error_odo_lost_msg">ODO error</string>
+    <string name="error_left_wheel_odo_lost_msg">Left ODO error</string>
+    <string name="error_right_wheel_odo_lost_msg">Right ODO error</string>
+    <string name="error_audio_codec_msg">Audio error</string>
+    <string name="error_range_i2c_msg">wall sensor init error</string>
+    <string name="error_range_boot_timeout_msg">wall sensor error</string>
+    <string name="error_range_id_msg">wall sensor error</string>
+</resources>

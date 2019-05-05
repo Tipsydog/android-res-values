@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="product_info_model">Model</string>
+    <string name="product_info_sn">产品序列号</string>
+    <string name="product_info_uid">小米ID</string>
+    <string name="product_info_firmware_version">固件版本</string>
+    <string name="product_info_plug_version">插件版本</string>
+    <string name="product_info_ssid">WIFI名称</string>
+    <string name="product_info_ip">IP地址</string>
+    <string name="product_info_mac">MAC地址</string>
+    <string name="product_info_copy">复制</string>
+    <string name="product_info_close">关闭</string>
+
+</resources>

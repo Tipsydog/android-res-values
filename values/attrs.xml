@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NumberElement">
+        <attr name="type">
+            <enum name="percentage" value="0" />
+            <enum name="time" value="1" />
+            <enum name="area" value="2" />
+        </attr>
+        <attr name="number" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="RRWaveView">
+        <!-- 单位: dp -->
+        <attr name="start_radius" format="integer" />
+        <attr name="end_radius" format="integer" />
+        <attr name="refresh_time" format="integer" />
+        <attr name="stroke_width" format="integer" />
+        <attr name="color" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="RRStickRC">
+        <attr name="OuterRadius" format="float" />
+    </declare-styleable>
+
+    <declare-styleable name="rr_clean_mode_item_button">
+        <attr name="rr_cm_title" format="string" />
+        <attr name="image_src_normal" format="reference" />
+        <attr name="image_src_light" format="reference" />
+        <attr name="text_color_normal" format="color" />
+        <attr name="text_color_light" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="rr_consume_node">
+        <attr name="picture" format="reference" />
+        <attr name="percent" format="integer" />
+        <attr name="consume" format="string" />
+        <attr name="time_left" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="heart_beat_view">
+        <attr name="hb_image" format="reference" />
+        <attr name="hb_pause_image" format="reference" />
+        <attr name="hb_sleeping_image" format="reference" />
+        <attr name="hb_image_size" format="dimension"/>
+        <attr name="hb_text" format="string" />
+        <attr name="hb_pause_text" format="string" />
+        <attr name="hb_text_color" format="color" />
+        <attr name="hb_sleeping_text_color" format="color" />
+        <attr name="hb_text_size" format="dimension" />
+        <attr name="hb_image_text_gap" format="dimension" />
+        <attr name="hb_layout_direction" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="checkable_view">
+        <attr name="cv_image" format="reference" />
+        <attr name="cv_sleeping_image" format="reference" />
+        <attr name="cv_checked_image" format="reference" />
+        <attr name="cv_text" format="string" />
+        <attr name="cv_text_color" format="color" />
+        <attr name="cv_checked_text_color" format="color" />
+        <attr name="cv_sleeping_text_color" format="color" />
+        <attr name="cv_text_size" format="dimension" />
+        <attr name="cv_image_text_gap" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="text_image_view">
+        <attr name="ti_text_size" format="dimension" />
+        <attr name="ti_text_color" format="color" />
+        <attr name="ti_image_width" format="dimension" />
+        <attr name="ti_image_height" format="dimension" />
+        <attr name="ti_image_src" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="rr_clean_mode_view">
+        <attr name="clean_mode_checked_image" format="reference" />
+        <attr name="clean_mode_unchecked_image" format="reference" />
+        <attr name="clean_mode_text" format="string" />
+        <attr name="clean_mode_text_gap" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="rr_number_picker">
+        <attr name="text_position"  format="string" />
+    </declare-styleable>
+
+</resources>

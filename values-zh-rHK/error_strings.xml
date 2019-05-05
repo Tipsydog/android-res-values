@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_left_compass_recover_msg">電子羅盤異常</string>
+    <string name="error_right_compass_recover_msg">右電子羅盤異常</string>
+    <string name="error_mb_rush_sc_msg">主刷短路</string>
+    <string name="error_mb_brush_oc_msg">主刷開路</string>
+    <string name="error_left_wheel_sc_msg">左輪短路</string>
+    <string name="error_left_wheel_oc_msg">左輪開路</string>
+    <string name="error_right_wheel_sc_msg">右輪短路</string>
+    <string name="error_right_wheel_oc_msg">右輪開路</string>
+    <string name="error_fan_oc_msg">風機開路</string>
+    <string name="error_mouse_init_msg">運動追踪傳感器初始化錯誤</string>
+    <string name="error_gyro_init_msg">陀螺儀初始化錯誤</string>
+    <string name="error_charger_ic_msg">充電IC異常</string>
+    <string name="error_mv_ram_msg">NVRAM異常</string>
+    <string name="error_low_wifi_msg">wifi模組異常1</string>
+    <string name="error_high_wifi_msg">wifi模組異常2</string>
+    <string name="error_odo_lost_msg">里程計內部錯誤</string>
+    <string name="error_left_wheel_odo_lost_msg">左輪里程計無數據</string>
+    <string name="error_right_wheel_odo_lost_msg">右輪里程計無數據</string>
+    <string name="error_audio_codec_msg">Audio初始化錯誤</string>
+    <string name="error_range_i2c_msg">沿牆傳感器初始化錯誤</string>
+    <string name="error_range_boot_timeout_msg">沿牆傳感器異常</string>
+    <string name="error_range_id_msg">沿牆傳感器異常</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="product_info_model">Model</string>
+    <string name="product_info_sn">Serial number</string>
+    <string name="product_info_uid">MI ID</string>
+    <string name="product_info_firmware_version">Firmware ver.</string>
+    <string name="product_info_plug_version">Plugin ver.</string>
+    <string name="product_info_ssid">WIFI name</string>
+    <string name="product_info_ip">IP address</string>
+    <string name="product_info_mac">MAC address</string>
+    <string name="product_info_copy">Copy</string>
+    <string name="product_info_close">Close</string>
+
+</resources>

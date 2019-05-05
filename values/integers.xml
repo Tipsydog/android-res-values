@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="animate_duration">500</integer>
+    <integer name="main_page_bar_animate_duration">500</integer>
+    <integer name="zoned_clean_bottom_text_alpha">0xcc</integer>
+</resources>

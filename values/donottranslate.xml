@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rockrobo_official_we_chat">石头科技roborock</string>
+    <string name="clean_history_item_area_symbol_tw">坪</string>
+    <string name="clean_history_summary_area_symbol_tw">坪</string>
+    <string name="empty_item"></string>
+    <string name="time_zone_shanghai">Asia/Shanghai</string>
+    <string name="customer_service_phone_number_tw">02-21921023</string>
+
+    <string name="customer_service_email_de">support@roborock-eu.com</string>
+    <string name="customer_service_email_us">support@roborock.com</string>
+    <string name="customer_service_email_sg">support@roborock.com</string>
+    <string name="customer_service_email_cn">service@roborock.com</string>
+
+    <string name="oba_info">OBA信息</string>
+    <string name="oba_sn_title">序列号:</string>
+    <string name="oba_location_title">地区:</string>
+    <string name="oba_language_title">语音:</string>
+    <string name="oba_wifi_plan_title">WiFi通道:</string>
+    <string name="oba_log_server_title">LOG服务器:</string>
+    <string name="oba_timezone_title">时区:</string>
+    <string name="oba_bom_title">BOM:</string>
+    <string name="oba_name_title">配置名称:</string>
+    <string name="oba_firmware_ver_title">固件版本:</string>
+    <string name="oba_feature_set">FeatureSet:</string>
+
+    <string name="main_clean_info_time_symbol">min</string>
+    <string name="main_clean_info_area_symbol">m²</string>
+    <string name="main_clean_info_battery_symbol">%</string>
+
+    <string name="clean_history_summary_hour">h</string>
+    <string name="clean_history_summary_clean_times_symbol">\'</string>
+
+    <string name="temporarily_closed">暂停开放</string>
+
+    <string name="clean_times_symbol">x</string>
+
+    <string name="manual_seg_map_firmware_version">xxxxx</string>
+</resources>

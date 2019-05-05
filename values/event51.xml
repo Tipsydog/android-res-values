@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="event51">五一颁奖礼</string>
+    <string name="event51_desc_1">按时上班，从不偷懒。</string>
+    <string name="event51_desc_8">机器人里你是最爱干净的！</string>
+    <string name="event51_desc_2">都怪你，人类都快忘记怎么扫地了~</string>
+    <string name="event51_desc_3">眼观四路，芯算八方。</string>
+    <string name="event51_desc_4">连墙角你都不放过！</string>
+    <string name="event51_desc_6">你认真工作的样子，真像你的主人。</string>
+    <string name="event51_desc_5">感觉地板越来越纯洁了呢~</string>
+    <string name="event51_desc_7">你总能发现小(si)惊(fang)喜(qian)！</string>
+    <string name="activity_event_title">五一劳模颁奖礼</string>
+    <string name="activity_event_desc_0">特发此证，以资鼓励</string>
+    <string name="activity_event_desc_1">扫地机器人劳动委员会</string>
+    <string name="activity_event_desc_2">2018年5月1日</string>
+    <string name="activity_event_desc_3">分享“奖状海报”至微信</string>
+    <string name="activity_event_desc_4">扫描海报二维码，关注微信公众号</string>
+    <string name="activity_event_company">扫地机器人劳动委员会</string>
+    <string name="activity_event_wx_desc">微信扫码，关注公众号</string>
+    <string name="activity_event_wx_desc_1_1">抽取</string>
+    <string name="activity_event_wx_desc_2">中奖率</string>
+    <string name="activity_event_wx_desc_3">100%</string>
+    <string name="activity_event_honor_text">你已累计清扫 %1$sm²，%2$s被评为:</string>
+    <string name="activity_event_alert">数据获取失败！</string>
+    <string name="activity_event_desc_5">100%抽取</string>
+    <string name="activity_event_desc_6">扫地机器人及配件</string>
+    <string name="activity_event_desc_7">等奖品</string>
+    <string name="activity_event_wx_desc_1_2">扫地机器人</string>
+    <string name="activity_event_wx_desc_1_3">、配件等奖品</string>
+    <string name="event_activity_rule_text">活动规则</string>
+</resources>
